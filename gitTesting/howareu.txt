@@ -1,0 +1,25 @@
+Here are some basic commands for using Git and GitHub:
+
+git clone: This command is used to clone (or download) a repository from GitHub to your local machine.
+
+git add: This command is used to add changes to the staging area in preparation for committing.
+
+git commit: This command is used to save changes to your local repository with a commit message.
+
+git push: This command is used to push your local changes to the GitHub repository.
+
+git pull: This command is used to download changes from the GitHub repository to your local repository.
+
+git branch: This command is used to view, create, or delete branches in your local repository.
+
+git merge: This command is used to merge changes from one branch into another.
+
+git status: This command is used to view the status of your local repository, including any changes that have been made.
+
+git log: This command is used to view the commit history of your local repository.
+
+git remote: This command is used to view, add, or remove remote repositories, such as GitHub.
+
+
+
+
